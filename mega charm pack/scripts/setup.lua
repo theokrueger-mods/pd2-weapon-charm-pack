@@ -4,7 +4,7 @@ _G.MWC = _G.MWC or {}
     custom charms table structure
     id is table key
         id is used in links to files and such, it is expected that your files go in specific places:
-        models go in units/mods/weapons/wpn_fps_upg_charms/wpn_third_upg_charm_<id>
+        models go in units/mods/weapons/wpn_fps_upg_charms/<id>/wpn_third_upg_charm_<id>
         icons go in guis/dlcs/mods/textures/wpn_fps_upg_charm_<id>
     name, desc, are localisation
     thirdperson is whether or not a thirdperson unit/model is supplied
@@ -15,6 +15,11 @@ MWC.charms = {
 		name = 'ERROR',
 		desc = 'do you have Counter-Strike: Source installed?',
 		dlc = 'error'
+	},
+	['luckycat'] = {
+		name = 'Lucky Cat',
+		desc = 'wave the misfortune away',
+		dlc = 'fortunate'
 	}
 }
 
@@ -28,6 +33,11 @@ MWC.dlc = {
 	['error'] = {
 		name = 'error charm',
 		desc = 'This is an Underwhelming item!',
+		colour = Color("ff66cc")
+	},
+	['fortunate'] = {
+		name = 'fortune',
+		desc = 'This is a Fortunate item!',
 		colour = Color("ff66cc")
 	}
 }

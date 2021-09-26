@@ -23,7 +23,7 @@ function WeaponFactoryTweakData:_add_charms_to_all_weapons(
 			has_description = true,
 			name_id = 'bm_wp_upg_charm_' .. k,
 			desc_id = 'bm_wp_upg_charm_' .. k .. '_desc',
-			unit = 'units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/wpn_fps_upg_charm_' .. k,
+			unit = 'units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/' .. k .. '/wpn_fps_upg_charm_' .. k,
 			pcs = {},
 			stats = {
 				value = 1

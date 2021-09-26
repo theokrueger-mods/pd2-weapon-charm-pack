@@ -1,5 +1,5 @@
 <unit type="wpn" slot="1">
-	<object file="units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/wpn_fps_upg_charm_error" />
+	<object file="units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/luckycat/wpn_fps_upg_charm_luckycat" />
 	<extensions>
 		<extension name="unit_data" class="ScriptUnitData" />
 	</extensions>
