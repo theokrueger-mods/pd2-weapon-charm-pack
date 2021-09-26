@@ -9,7 +9,7 @@ Source engine ERROR model
   * coin glows
 
 ## How to install
-extract `mega charm pack/` into the `mods/` folder of PAYDAY 2.
+extract `mega-charm-pack/` into the `mods/` folder of PAYDAY 2.
 Requires SuperBLT to function.
 
 
