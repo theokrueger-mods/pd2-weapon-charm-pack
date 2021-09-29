@@ -16,5 +16,12 @@
 			"hook_id" : "lib/tweak_data/dlctweakdata",
 			"script_path" : "hooks/dlctweakdata.lua"
 		}
-	]
+	],
+	"updates" : [
+	{
+		"identifier" : "MWC",
+		"host" : {
+			"meta" : "https://github.com/theokrueger-mods/pd2-weapon-charm-pack/raw/master/meta.json"
+		}
+	}
 }
