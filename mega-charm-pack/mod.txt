@@ -2,7 +2,7 @@
 	"blt_version": 2,
 	"name": "mega charm pack",
 	"author": "mercu",
-	"version": "1.0",
+	"version": "1.01",
 	"hooks": [
 		{
 			"hook_id": "lib/tweak_data/weaponfactorytweakdata",
