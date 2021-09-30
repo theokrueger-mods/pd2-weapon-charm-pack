@@ -1,5 +1,7 @@
 # mega charm pack
 
+![banner](https://raw.githubusercontent.com/theokrueger-mods/pd2-weapon-charm-pack/master/img/banner.png)
+
 This pack is a collection of various charms for weapons in PAYDAY 2. Each charm has special effects (like the mega masks) that make them unique.
 
 ## Adds the following charms to the game:
