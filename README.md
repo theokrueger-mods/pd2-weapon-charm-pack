@@ -8,8 +8,8 @@ This pack is a collection of various charms for weapons in PAYDAY 2. Each charm 
 
 <details>
   <summary><b>Lucky Cat</b></summary>
-  * coin glows in the dark
 
+  * coin glows in the dark
   * [video preview](https://raw.githubusercontent.com/theokrueger-mods/pd2-weapon-charm-pack/master/img/luckycat/preview.webm)
 
   ![icon](https://raw.githubusercontent.com/theokrueger-mods/pd2-weapon-charm-pack/master/img/luckycat/icon.png)
@@ -21,8 +21,8 @@ This pack is a collection of various charms for weapons in PAYDAY 2. Each charm 
 
 <details>
   <summary><b>Source Engine ERROR</b></summary>
-  * blinks ingame just like the real one
 
+  * blinks ingame just like the real one
   * [video preview](https://raw.githubusercontent.com/theokrueger-mods/pd2-weapon-charm-pack/master/img/error/preview.webm)
 
   ![icon](https://raw.githubusercontent.com/theokrueger-mods/pd2-weapon-charm-pack/master/img/error/icon.png)
@@ -31,6 +31,17 @@ This pack is a collection of various charms for weapons in PAYDAY 2. Each charm 
 
   ![blackmarket](https://raw.githubusercontent.com/theokrueger-mods/pd2-weapon-charm-pack/master/img/error/blackmarket.jpg)
 </details>
+
+<details>
+  <summary><b>OVERKILL Bomb</b></summary>
+
+  * bomb model from HEF grenade
+  * sweeping effect across bomb 
+
+  previews TBD
+
+</details>
+
 ... and your suggestion!
 
 ## Mirrors
