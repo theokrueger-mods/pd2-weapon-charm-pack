@@ -19,6 +19,11 @@ MWC.charms = {
 		name = 'Lucky Cat',
 		desc = 'wave the misfortune away',
 		dlc = 'fortunate'
+	},
+	['redbomb'] = {
+		name = 'Red Bomb',
+		desc = 'i wish this was on a mug...',
+		dlc = 'familiar'
 	}
 }
 
@@ -37,6 +42,11 @@ MWC.dlc = {
 	['fortunate'] = {
 		name = 'fortune',
 		desc = 'This is a Fortunate item!',
+		colour = Color('ff66cc')
+	},
+	['familiar'] = {
+		name = 'familiar',
+		desc = 'This is a Familiar item!',
 		colour = Color('ff66cc')
 	}
 }

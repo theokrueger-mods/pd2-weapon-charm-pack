@@ -8,7 +8,6 @@
     <material name="mtr_lootbag" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP" version="2">
 		<diffuse_texture file="units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/luckycat/wpn_fps_upg_charm_luckycat_df" />
 		<bump_normal_texture file="units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/luckycat/wpn_fps_upg_charm_luckycat_nm" />
-		<bump_normal_texture file="units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/gen/nonormal" />
 	</material>
 
 	<material name="mtr_pillow" render_template="generic:DEPTH_SCALING:DIFFUSE_TEXTURE:NORMALMAP" version="2">

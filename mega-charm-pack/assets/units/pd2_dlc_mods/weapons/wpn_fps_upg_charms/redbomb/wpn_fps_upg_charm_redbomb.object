@@ -1,0 +1,10 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_mods/weapons/wpn_fps_upg_charms/redbomb/wpn_fps_upg_charm_redbomb" orientation_object="rp_wpn_fps_upg_charm_bag" />
+	<graphics>
+		<object name="g_charm_top" enabled="true" />
+		<object name="g_ring" enabled="true" />
+		<object name="g_base" enabled="true" />
+		<object name="g_charm" enabled="true" />
+		<object name="g_effect" enabled="true" />
+	</graphics>
+</dynamic_object>
